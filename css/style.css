@@ -57,12 +57,12 @@ hr{
 }
 
 .java{
-  /*width:30%;
+  width:30%;
   height:30%;
-  border-radius: 50%; */
-  width:25%;
+  border-radius: 50%; 
+  /*width:25%;
   float: right;
-  margin-right:20px;
+  margin-right:20px; */
 }
 .bottom-cloud{
   position:absolute;
